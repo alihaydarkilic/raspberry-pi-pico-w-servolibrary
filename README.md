@@ -1,7 +1,8 @@
 # Raspberry Pi Pico W için servo kütüphanesi v0.1 (Micropython)
 Raspberry Pi Pico W için servo kütüphanesi
 
-servo kütüphanesi v0.2 ve Robot kol için hazırladığım kütüphaneler yama notlarından ulaşabilirsiniz.
+**Servo kütüphanesi versiyon 0.2'ye ve Robot kol kütüphanesine sürüm notlarından ulaşabilirsiniz.**
+**You can find Servo library v0.2 and Robot arm library in the release notes.**
 
 Thonyy ide ile main.py ve srv.py açarak kullanmaya başlayabilirsiniz. Eğer elinizde akrt yoksa https://wokwi.com/projects/359149286284606465 linki bıraktığım simülasyon sitesinden testlerini gerçekleştirebilir, ve kütüphaneyi geliştirebilirsiniz. Umarım yardımcı olmuştur.
 
